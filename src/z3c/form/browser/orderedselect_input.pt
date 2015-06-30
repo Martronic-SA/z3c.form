@@ -2,7 +2,7 @@
       xmlns:tal="http://xml.zope.org/namespaces/tal"
       xmlns:i18n="http://xml.zope.org/namespaces/i18n"
       tal:omit-tag="">
-<script type="text/javascript" src="++resource++orderedselect_input.js" />
+<script type="text/javascript" src="++resource++orderedselect_input.js" ></script>
 
 <table border="0" class="ordered-selection-field"
        tal:attributes="id view/id">
